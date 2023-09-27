@@ -27,7 +27,7 @@ docker image will be downloaded from docker hub
 Django project - first_project
 Application_1 - login
 
-[[/Images/Screenshot from 2023-09-26 13-43-31.png]]
+! [](https://github.com/Arvindhh931/Django-mysql-docker/blob/main/Images/Screenshot%20from%202023-09-26%2013-43-31.png)
 
 ## model.py of login
 
