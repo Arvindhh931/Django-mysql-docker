@@ -27,7 +27,7 @@ docker image will be downloaded from docker hub
 Django project - first_project
 Application_1 - login
 
-[[/images/Screenshot from 2023-09-26 13-43-31.png|500]]
+[[/images/Screenshot from 2023-09-26 13-43-31.png]]
 
 ## model.py of login
 
