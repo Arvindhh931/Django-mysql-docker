@@ -1,2 +1,3 @@
 # Django-mysql-docker
-connection between Django application and MySQL docker container
+
+CRUD operation using Django Framework with MySQL Database 
