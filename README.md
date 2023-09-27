@@ -32,6 +32,7 @@ Application_1 - login
 ## model.py of login
 
 ![[Screenshot from 2023-09-26 13-42-34.png]]
+![](https://github.com/Arvindhh931/Django-mysql-docker/blob/main/Images/Screenshot%20from%202023-09-26%2013-42-34.png)
 
 ## Migrating configurations and details to database
 
