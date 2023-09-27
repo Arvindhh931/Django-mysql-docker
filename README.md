@@ -31,7 +31,6 @@ Application_1 - login
 
 ## model.py of login
 
-![[Screenshot from 2023-09-26 13-42-34.png]]
 ![](https://github.com/Arvindhh931/Django-mysql-docker/blob/main/Images/Screenshot%20from%202023-09-26%2013-42-34.png)
 
 ## Migrating configurations and details to database
@@ -40,7 +39,6 @@ Application_1 - login
 python manage.py migrate
 ```
 
-![[Screenshot from 2023-09-26 13-40-17.png|500]]
 ![](https://github.com/Arvindhh931/Django-mysql-docker/blob/main/Images/Screenshot%20from%202023-09-26%2013-40-17.png)
 
 ## Migrating configurations and details to database
@@ -57,7 +55,6 @@ python manage.py migrate <application_name>
 
 tables gets created from the **model.py** of **login app**
 
-![[Screenshot from 2023-09-26 13-40-37.png|500]]
 ![](https://github.com/Arvindhh931/Django-mysql-docker/blob/main/Images/Screenshot%20from%202023-09-26%2013-40-37.png)
 
 ### Example 
@@ -70,6 +67,5 @@ python manage.py makemigrations login
 python manage.py migrate login
 ```
 
-![[Screenshot from 2023-09-26 13-38-39.png|1000]]
 ![](https://github.com/Arvindhh931/Django-mysql-docker/blob/main/Images/Screenshot%20from%202023-09-26%2013-38-39.png)
 
